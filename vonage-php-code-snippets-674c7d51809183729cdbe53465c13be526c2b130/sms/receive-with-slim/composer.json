@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "vonage/client": "^2.4"
+    },
+    "scripts":{
+        "serve": "php -S 0.0.0.0:3000 index.php"
+    }
+}
